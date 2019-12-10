@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/TRAFALGAR LAW/Desktop/textadv/Room.cpp
+Room.h
+C:/Users/TRAFALGAR LAW/Desktop/textadv/Room.h
+wordwrap.h
+C:/Users/TRAFALGAR LAW/Desktop/textadv/wordwrap.h
+
+C:/Users/TRAFALGAR LAW/Desktop/textadv/Room.h
+string
+-
+forward_list
+-
+list
+-
+cmake-build-debug/GameObject.h
+C:/Users/TRAFALGAR LAW/Desktop/textadv/cmake-build-debug/GameObject.h
+
+C:/Users/TRAFALGAR LAW/Desktop/textadv/State.cpp
+State.h
+C:/Users/TRAFALGAR LAW/Desktop/textadv/State.h
+
+C:/Users/TRAFALGAR LAW/Desktop/textadv/State.h
+Room.h
+C:/Users/TRAFALGAR LAW/Desktop/textadv/Room.h
+
+C:/Users/TRAFALGAR LAW/Desktop/textadv/cmake-build-debug/GameObject.cpp
+GameObject.h
+C:/Users/TRAFALGAR LAW/Desktop/textadv/cmake-build-debug/GameObject.h
+
+C:/Users/TRAFALGAR LAW/Desktop/textadv/cmake-build-debug/GameObject.h
+
+C:/Users/TRAFALGAR LAW/Desktop/textadv/main.cpp
+iostream
+-
+iomanip
+-
+memory
+-
+iterator
+-
+vector
+-
+forward_list
+-
+Room.h
+C:/Users/TRAFALGAR LAW/Desktop/textadv/Room.h
+wordwrap.h
+C:/Users/TRAFALGAR LAW/Desktop/textadv/wordwrap.h
+State.h
+C:/Users/TRAFALGAR LAW/Desktop/textadv/State.h
+strings.h
+C:/Users/TRAFALGAR LAW/Desktop/textadv/strings.h
+
+C:/Users/TRAFALGAR LAW/Desktop/textadv/strings.h
+string
+-
+
+C:/Users/TRAFALGAR LAW/Desktop/textadv/wordwrap.h
+string
+-
+

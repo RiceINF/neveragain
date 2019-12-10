@@ -1,0 +1,3 @@
+C:/Users/TRAFALGAR LAW/Desktop/textadv/cmake-build-debug/CMakeFiles/textadv.dir
+C:/Users/TRAFALGAR LAW/Desktop/textadv/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TRAFALGAR LAW/Desktop/textadv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
